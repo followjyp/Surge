@@ -1,6 +1,6 @@
 #!name=MitM Everything!
 #!desc=抓包研究專用，勿常開
-#!system=ios
+#!system=
 
 [MITM]
 hostname = -*.apple.com, -*.icloud.com, -*.facebook.com, -*.instagram.com, -*.twitter.com, -*.mzstatic.com, -*.crashlytics.com, *
